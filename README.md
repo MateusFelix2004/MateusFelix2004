@@ -6,4 +6,4 @@
 - My name is Mateus, I’m 17 years old and live in 🇧🇷
 - 🌱 I’m currently learning HTML, CSS and JS
 - 👯 I’m looking to collaborate on web projects
-- 📫 How to reach me: @Mateus_Felix on the Telegram
+- 📫 How to reach me: [@Mateus_Felix](https://t.me/Mateus_Felix)
